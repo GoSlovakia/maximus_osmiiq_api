@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3810080873
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e18f45910934ff1b11bde61683df92b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/JourneyThumbs/LV-B010.png
+- Assets/JourneyThumbs/LV-B011.png
+- Assets/JourneyThumbs/LV-B007.png
+- Assets/JourneyThumbs/LV-B005.png
+- Assets/JourneyThumbs/LV-B012.png
+- Assets/JourneyThumbs/LV-B018.png
+- Assets/JourneyThumbs/LV-B019.png
+- Assets/JourneyThumbs/LV-B002.png
+- Assets/JourneyThumbs/LV-B014.png
+- Assets/JourneyThumbs/LV-B001.png
+- Assets/JourneyThumbs/LV-B008.png
+- Assets/JourneyThumbs/LV-B004.png
+- Assets/JourneyThumbs/LV-B015.png
+- Assets/JourneyThumbs/LV-B020.png
+- Assets/JourneyThumbs/LV-B013.png
+- Assets/JourneyThumbs/LV-B003.png
+- Assets/JourneyThumbs/LV-B006.png
+- Assets/JourneyThumbs/LV-B016.png
+- Assets/JourneyThumbs/LV-B017.png
+- Assets/JourneyThumbs/LV-B009.png
+Dependencies: []

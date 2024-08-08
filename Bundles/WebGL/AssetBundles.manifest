@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3697018805
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cardsbundle
+      Dependencies: {}
+    Info_1:
+      Name: cardsdomainsbundle
+      Dependencies: {}
+    Info_2:
+      Name: cardstypesbundle
+      Dependencies: {}
+    Info_3:
+      Name: journeythumbsbundle
+      Dependencies: {}
+    Info_4:
+      Name: avatarpartsthumbsbundle
+      Dependencies: {}

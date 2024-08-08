@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 122932007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db49888f77d42d475e371b7273ae0d87
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/CardDomains/HG.png
+- Assets/CardDomains/CA.png
+- Assets/CardDomains/FR.png
+- Assets/CardDomains/PC.png
+- Assets/CardDomains/PP.png
+- Assets/CardDomains/LL.png
+- Assets/CardDomains/MC.png
+Dependencies: []
